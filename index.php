@@ -1,0 +1,1 @@
+<?php header( 'Location: /l6/app.js' ) ;  ?>
