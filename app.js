@@ -17,7 +17,12 @@ app.get("/mercury", function(req, res){
 
 //routes 
 app.get("/venus", function(req, res){
-   res.send("This will be the Venus webpage!");
+   res.render("venus.html");
+});
+
+//routes 
+app.get("/earth", function(req, res){
+   res.render("earth.html");
 });
 
 //server listeners 

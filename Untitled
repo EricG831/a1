@@ -1,8 +1,3 @@
-figure out how to access on heroku 
-It’s Your Turn!
- 
 Add Bootstrap to all pages (include the Bootstrap css file in header.ejs)
-
-
 Add content (between 50 and 100 words would suffice) and at least one image for Mercury, Venus, and Earth pages.
 Add a navigation menu across all pages (consider including it in the header.ejs file)
