@@ -1,1 +1,0 @@
-<?php header( 'Location: /l6/views/index.html' ) ;  ?>
